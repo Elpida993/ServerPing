@@ -8,7 +8,7 @@ from email.message import EmailMessage
 
 
 #In position 0 is Server One. In position 1 is Server Two. Change these to what you need
-IP_Addr = ["192.168.1.1", "192.168.1.12122"]        
+IP_Addr = ["192.168.1.1", "192.168.1.2"]        
 
 Email = input("Email:")
 Password = input("Password:")
